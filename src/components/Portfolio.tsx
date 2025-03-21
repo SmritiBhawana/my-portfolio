@@ -7,7 +7,7 @@ export default function Portfolio() {
         <div className="w-1/2 border-t border-gray-300 my-6 mx-auto"></div>
   
         <div className="flex justify-center">
-          <a href="we-care-git-main-smritibhawanas-projects.vercel.app" target="_blank" rel="noopener noreferrer">
+          <a href="https://we-care-hazel.vercel.app/" target="_blank" rel="noopener noreferrer">
             <img
               src="images/wecare.jpg"
               alt="Personal Project: WeCare"
