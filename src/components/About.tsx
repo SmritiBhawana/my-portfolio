@@ -34,8 +34,15 @@ const About: React.FC = () => {
           <p className="mt-2">
             <strong>Location:</strong> Varanasi
           </p>
+          <p className="mt-10"> <a href="/front_end.pdf" download className="bg-teal-600 text-white px-4 py-2 rounded-md hover:bg-teal-700 ">
+  Download Resume
+</a></p>
+         
         </div>
       </div>
+
+      
+
     </section>
     );
   };
